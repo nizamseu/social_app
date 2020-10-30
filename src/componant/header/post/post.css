@@ -1,0 +1,14 @@
+.postt{
+    float: left;
+    height: 400px;
+    margin-bottom: 20px;
+}
+.post2{
+   margin: 15px;
+   height: 400px;
+   width: 250px;
+   margin-top: 30px;
+}
+.btn{
+    padding-bottom: 0;
+}
